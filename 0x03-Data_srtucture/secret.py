@@ -1,6 +1,8 @@
 def rot13(text):
     result = []
     for char in text:
+        print(char)
+        """
         if 'a' <= char <= 'z':
             result.append(chr((ord(char) - ord('a') + 13) % 26 + ord('a')))
         elif 'A' <= char <= 'Z':
@@ -8,6 +10,7 @@ def rot13(text):
         else:
             result.append(char)
     return ''.join(result)
+        """
 
 
 
