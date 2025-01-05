@@ -15,4 +15,6 @@ elif op =="x":
 elif op =="/":
     result = num1/num2
     print(result)
-
+elif op =="%":
+    result = num1%num2
+    print(result)
