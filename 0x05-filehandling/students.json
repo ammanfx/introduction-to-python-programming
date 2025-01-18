@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Muhammad Abubakar",
+        "age": 17,
+        "grades": [
+            45,
+            55,
+            67
+        ],
+        "hobbies": [
+            "eating",
+            "movies",
+            "games"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Abdulrasheed Aliyu",
+        "age": 15,
+        "grades": [
+            50,
+            59,
+            97
+        ],
+        "hobbies": [
+            "reading",
+            "coding",
+            "problem solving"
+        ]
+    }
+   ]
