@@ -1,5 +1,5 @@
-#!/bin/env python3 
-"""A code that ask a user to enter name and age"""
+#!/usr/bin/env python3 
+"""A module that ask a user to enter name and age"""
 
 
 # Ask the user for their name and age
