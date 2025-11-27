@@ -4,17 +4,15 @@
 
 score = int(input("Enter your score: "))
 
-if score >= 70 and score <= 100:
+if score >= 90 and score <= 100:
     print(f"{score} A")
-elif score >= 60 and score <= 69:
+elif score >= 80 and score <= 89:
     print(f"{score} B")
-elif score >= 50 and score <= 59:
+elif score >= 70 and score <= 79:
     print(f"{score} C")
-elif score >= 45 and score <= 49:
+elif score >= 60 and score <= 69:
     print(f"{score} D")
-elif score >= 40 and score <= 44:
-    print(f"{score} E")
-elif score >= 0 and score<= 30:
+elif score >= 0 and score<= 59:
     print(f"{score} F")
 else:
     print(f"{score} invalid score")
